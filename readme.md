@@ -1,3 +1,5 @@
+Repo Connection testing of CRUD actions using Go
 
+Postgres database example used
 
-https://github.com/jackc/pgx
+Uses [jackc pgx] for database connection (https://github.com/jackc/pgx)
